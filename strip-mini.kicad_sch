@@ -3213,7 +3213,7 @@
 
   (sheet (at 78.74 165.1) (size 22.86 7.62) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 255 255 194 1.0000))
     (uuid 075fc32c-a8ab-4fce-b25e-1dac013714da)
     (property "Sheetname" "LED Strip" (at 78.74 164.3884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
